@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bilal Achmad Ramadhan</h1>
 <h3 align="center">A passionate Web Developer who aspire to become a Fullstack Developer</h3>
 
-![](https://github.com/Rustydinoco/Rustydinoco/blob/main/2GU.gif)
+<p align="center">
+<img align="middle" alt="GIF" src="https://github.com/Rustydinoco/Rustydinoco/blob/main/2GU.giff" />
+</p>
 
 - 🌱 I’m currently learning **Saas,React and etc.**
 
