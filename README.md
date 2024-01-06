@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Web Developer who aspire to become a Fullstack Developer</h3>
 
 <p align="center">
-<img align="middle" alt="GIF" src=https://"github.com/Rustydinoco/Rustydinoco/blob/main/2GU.gif" />
+<img align="middle" alt="GIF" src="https://github.com/Rustydinoco/Rustydinoco/blob/main/2GU.gif" />
 </p>
+
 
 - 🌱 I’m currently learning **Saas,React and etc.**
 
