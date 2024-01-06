@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Achmad Ramadhan</h1>
 <h3 align="center">A passionate Web Developer who aspire to become a Fullstack Developer</h3>
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stonehengenyc.com%2Fblog%2F10-cat-gifs-that-perfectly-capture-nyc-life&psig=AOvVaw07tvVVN93c8v-1DXG5gcYu&ust=1704627877739000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDYvvPXyIMDFQAAAAAdAAAAABAD
+
 
 - 🌱 I’m currently learning **Saas,React and etc.**
 
