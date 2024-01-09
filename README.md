@@ -5,12 +5,12 @@
 <img align="middle" alt="GIF" src="https://github.com/Rustydinoco/Rustydinoco/blob/main/2GU.gif" />
 </p>
 
-
-- 🌱 I’m currently learning **Saas,React and etc.**
+<h2>About my personal stuff</h2>
+- 🌱 I’m currently learning **Saas,React,etc.**
 
 - 📫 How to reach me **bilaldoank04@gmail.com**
 
-- ⚡ Fun fact **i'm obsessed with Oreo and matcha flavour and i love cat**
+- ⚡ Fun fact **i love cat and matcha flavour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
